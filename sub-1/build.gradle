@@ -1,0 +1,15 @@
+apply plugin: 'application'
+
+mainClassName = "nc.sonartest.Number1"
+
+sourceSets {
+    main {
+        java {
+            srcDirs += ["$projectDir/src/generated/java"]
+        }
+    }
+}
+
+dependencies {
+}
+

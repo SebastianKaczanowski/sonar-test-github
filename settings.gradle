@@ -1,0 +1,4 @@
+rootProject.name = 'sonar-test-github'
+
+include ':sub-1'
+
