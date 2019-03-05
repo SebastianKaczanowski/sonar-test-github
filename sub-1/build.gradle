@@ -2,6 +2,7 @@ apply plugin: 'application'
 
 mainClassName = "nc.sonartest.Number1"
 
+/*
 sourceSets {
     main {
         java {
@@ -9,6 +10,7 @@ sourceSets {
         }
     }
 }
+*/
 
 dependencies {
 }
